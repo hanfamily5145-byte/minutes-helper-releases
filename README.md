@@ -2,6 +2,9 @@
 
 교회 회의를 녹음하면 AI가 받아쓰고 회의록 초안을 만들어 주는 윈도우 프로그램 **회의록 도우미**의 설치 파일만 올려 두는 곳입니다.
 
+## 사용설명서
+**[회의록 도우미 사용설명서 (PDF)](https://github.com/hanfamily5145-byte/minutes-helper-releases/releases/latest/download/MinutesHelper-Manual.pdf)** — 설치부터 최종 회의록까지 화면 사진과 함께 설명해요.
+
 ## 설치
 1. 오른쪽 **Releases**에서 가장 새 판의 `MinutesHelper-Setup-○.○.○.exe`를 받아 실행하세요.
 2. 'Windows의 PC 보호' 파란 창이 뜨면 **추가 정보 → 실행**을 누르세요. (서명 비용을 들이지 않은 프로그램이라 나오는 경고예요.)
